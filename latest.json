@@ -1,43 +1,43 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "notes": "Internal build. Public release at velko-pos-releases.",
-  "pub_date": "2026-04-01T17:49:05.426Z",
+  "pub_date": "2026-04-05T14:10:44.883Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmRElxZUFMQnRFZjk2VGwvbWVkZk85cU5kWTBaVWJmY1NIRVNSdHdUMlBveFZpTFcxNmdTYUF5cjQ0dXdzNlQ1bm1FaFJ1RjAyNWk0ZkpzODlLR2dXdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY0ODEyCWZpbGU6VmVsa28gUE9TLmFwcC50YXIuZ3oKeFpXZjI1eVkzdjlLTzJ3Tkl6bXJxTGh5NFFFZU41ZEY1b2gzczVlcW5LSnE5MnN0bkpEOTJYUG4ra2J6UWtIbTJVWFB0c01CNnJBSmNnMlp2OE9VQVE9PQo=",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmRE1lSGllVkM0QjdGTnpuSUNzNDlUNWRlUVNKMTcwL000MHNtZzVpODJPR3FjNnV0aFF6cWdubEMzTXNmK3lpUEZBeXBMbmNaNzl3REF2KzE5NkdIL0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk3MDg4CWZpbGU6VmVsa28gUE9TLmFwcC50YXIuZ3oKclMrRHJlZ0JSVys1MXlCTkNZY2NEcEtFdGNpOCtPbEhydWhMTkdOY0pOOFY0Z0JOcGdHbmNEcGJndjFEZ2oyMzlaMW9kM2pteHRKSkhHL25ZQ1NwQWc9PQo=",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmRElxZUFMQnRFZjk2VGwvbWVkZk85cU5kWTBaVWJmY1NIRVNSdHdUMlBveFZpTFcxNmdTYUF5cjQ0dXdzNlQ1bm1FaFJ1RjAyNWk0ZkpzODlLR2dXdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY0ODEyCWZpbGU6VmVsa28gUE9TLmFwcC50YXIuZ3oKeFpXZjI1eVkzdjlLTzJ3Tkl6bXJxTGh5NFFFZU41ZEY1b2gzczVlcW5LSnE5MnN0bkpEOTJYUG4ra2J6UWtIbTJVWFB0c01CNnJBSmNnMlp2OE9VQVE9PQo=",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmRE1lSGllVkM0QjdGTnpuSUNzNDlUNWRlUVNKMTcwL000MHNtZzVpODJPR3FjNnV0aFF6cWdubEMzTXNmK3lpUEZBeXBMbmNaNzl3REF2KzE5NkdIL0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk3MDg4CWZpbGU6VmVsa28gUE9TLmFwcC50YXIuZ3oKclMrRHJlZ0JSVys1MXlCTkNZY2NEcEtFdGNpOCtPbEhydWhMTkdOY0pOOFY0Z0JOcGdHbmNEcGJndjFEZ2oyMzlaMW9kM2pteHRKSkhHL25ZQ1NwQWc9PQo=",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREZQTGNVNUUwRXgvY0lKM1ZtOWM5Q01qK3d3dVEzYkxDK3l4emFnS001VXFBME16K3hlMGNnSU1ReXNSbEJhY3BObzhPc01Kd2xOQnJpZ0QrRFc1dmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1MjQ4CWZpbGU6VmVsa28gUE9TXzAuMS41X2FtZDY0LkFwcEltYWdlCk10NzY0TXRacTZNKzVIbXV3bk5hbkJGYTlRNDNTQnFkM1p5Q1d0QmJmVm5XcDJvWUtBMUt2NEJCTjkzQ2JFbDNQSDJjMnNoREtuVlZ4VHpCdWFIeUJ3PT0K",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_0.1.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmRE52NUNHWUR1TWtPb25TUXI4ZXh6cEwzWXZrMzdZUCtJZnAxaGk0SkFqcU15aDlRSGNqb280c1VCc1Fka21EVDFqUmlJdllsakYvdG1Ca2l5U2NYK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk3NjE1CWZpbGU6VmVsa28gUE9TXzAuMS42X2FtZDY0LkFwcEltYWdlCnczamVSRXlvZmlqeE1UcWVJZTk4T1ZTTFl6QzhvQWtvVEQ1aXZJSGkyUnM3UExJVERNQVhKWVFweENtUkVtcDB5Ui9DYXhUeDFEU1ZKR25YV2lEOEN3PT0K",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_0.1.6_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREZQTGNVNUUwRXgvY0lKM1ZtOWM5Q01qK3d3dVEzYkxDK3l4emFnS001VXFBME16K3hlMGNnSU1ReXNSbEJhY3BObzhPc01Kd2xOQnJpZ0QrRFc1dmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1MjQ4CWZpbGU6VmVsa28gUE9TXzAuMS41X2FtZDY0LkFwcEltYWdlCk10NzY0TXRacTZNKzVIbXV3bk5hbkJGYTlRNDNTQnFkM1p5Q1d0QmJmVm5XcDJvWUtBMUt2NEJCTjkzQ2JFbDNQSDJjMnNoREtuVlZ4VHpCdWFIeUJ3PT0K",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_0.1.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmRE52NUNHWUR1TWtPb25TUXI4ZXh6cEwzWXZrMzdZUCtJZnAxaGk0SkFqcU15aDlRSGNqb280c1VCc1Fka21EVDFqUmlJdllsakYvdG1Ca2l5U2NYK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk3NjE1CWZpbGU6VmVsa28gUE9TXzAuMS42X2FtZDY0LkFwcEltYWdlCnczamVSRXlvZmlqeE1UcWVJZTk4T1ZTTFl6QzhvQWtvVEQ1aXZJSGkyUnM3UExJVERNQVhKWVFweENtUkVtcDB5Ui9DYXhUeDFEU1ZKR25YV2lEOEN3PT0K",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_0.1.6_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREpnQTdISy92Y1BaYU81a1RWdTBnQ0w5Und3QUI4V09tN0R5YTdJckVncG5TU0FUcHdCQmJSaVNPQTVuamNZY3ZyOTNIcGpTUmkzK1J0Q1Nhc2xuN1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1MjQ4CWZpbGU6VmVsa28gUE9TXzAuMS41X2FtZDY0LmRlYgpIb2JWMkNZekcybXJ4OURQamJrOXppK1RjUGszTm5RV1RpdWtxQ1NEZmhYNFNJa1ZpbnpZbzBPZXZvRkN6L0RVdTdocElOVk9tZUd4VWx3ZC9sTytDUT09Cg==",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_0.1.5_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREpTbCs2NVlMVitEemFKZmtZaGpENWEzQVFwblRDM3VFTFp5SEVpZHpUT3FUZ1YwSlhoYkJTSnpOZGpxNlozbUxZUFdLVUxNWWZCU0tibEFUYmRVaVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk3NjE1CWZpbGU6VmVsa28gUE9TXzAuMS42X2FtZDY0LmRlYgo0T2RvancxaGJ5THBpa3gwa3RoYXVrdStOSFFNL3RjWHBpRnQvTkxWS3VaNmUrSXdaSUNHZEpQa2RuZThrN3dFaG5IZnhCRCs3dHVrOXhZRk5QalJCdz09Cg==",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_0.1.6_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREg1dWlJYS9zU0UxTTQwK0FTbWJISmYyUUk4MVlLL0hzSGNWbEx4TDQ0MU9KTkpZbGltbHd0a2RaOUxIYjhBOWJ6OHpudytXTkc5TzRzWVVnWU42dUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1MjQ4CWZpbGU6VmVsa28gUE9TLTAuMS41LTEueDg2XzY0LnJwbQo5QTBCRWRqVXJvWUZFaWtHN3ZlbVVVYXBxK21ObDJGb3lROHpkWFd2eWpQZEE2NmdINnRyNFNMMncvZUZlenFJVVRuTmJ0VDhOemtLWTNObmx2OWtBZz09Cg==",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS-0.1.5-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREEwWkhBendzVXhQN0NjN0Fra3NIRU9WUWJBakxQd3dhY1NzVTYwdWdxUnlPaEo5Ty9URWNjS3c3aUhLczdrblo3RWZqVXNORnh4SGp6TGNrc2VYTXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk3NjE1CWZpbGU6VmVsa28gUE9TLTAuMS42LTEueDg2XzY0LnJwbQo3UFA5cDNGNk9VVmpDWVJNR3Qzd3hvZUNhcW5lWjgyK3VrMGVxb3FRUVpReGxvL085bGxMY0ZlZS93Z3I2ckQ3blZXejBpSXlLeFZuMjY1SjhpanRDUT09Cg==",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS-0.1.6-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREg3Nit1MEljMFM5YjdZSXczemVRVHpkRS9MZVVENVI4YTNjTzhjKzdKVTV6SlhmTWlWZUJaMVNoWkJrRlEwbmE0cE9nT1VrZ2VJczVFL1psbllORXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1NzQwCWZpbGU6VmVsa28gUE9TXzAuMS41X3g2NF9lbi1VUy5tc2kKY0pZd04rR3FuQTVlSXhlTDZqS1VyNy9Tcnd6NWxaR2RXV2xoNFg0QnZ6NVIwWXNrWHlJcHVjb043Mmw0aHlSQ2dacXhlcmtpRldLMlI2R1ovZGk4RGc9PQo=",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREttQXRDNjNnb3VDMWpweFNVZFMwYTZMZForOGNQSmtKZnNaQ0RwK1UvMW04dmV4bURTajRPajA0VE1TZGN5TVBDSzdkcmJGRGYxdzNEWmJQN3U0bGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk4MjQxCWZpbGU6VmVsa28gUE9TXzAuMS42X3g2NF9lbi1VUy5tc2kKQ09ORXR1UTdXYlRLZEtDZCt5OXdBZ01yVTBBL2FIVWdyWHMzSlVrc1AzZUZiSnlIVG8vc1ZBMDgxcCs3Mkp0M1k4aXRUUEMvcUVLMXM1eDZrMjRHQ2c9PQo=",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_0.1.6_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREg3Nit1MEljMFM5YjdZSXczemVRVHpkRS9MZVVENVI4YTNjTzhjKzdKVTV6SlhmTWlWZUJaMVNoWkJrRlEwbmE0cE9nT1VrZ2VJczVFL1psbllORXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1NzQwCWZpbGU6VmVsa28gUE9TXzAuMS41X3g2NF9lbi1VUy5tc2kKY0pZd04rR3FuQTVlSXhlTDZqS1VyNy9Tcnd6NWxaR2RXV2xoNFg0QnZ6NVIwWXNrWHlJcHVjb043Mmw0aHlSQ2dacXhlcmtpRldLMlI2R1ovZGk4RGc9PQo=",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREttQXRDNjNnb3VDMWpweFNVZFMwYTZMZForOGNQSmtKZnNaQ0RwK1UvMW04dmV4bURTajRPajA0VE1TZGN5TVBDSzdkcmJGRGYxdzNEWmJQN3U0bGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk4MjQxCWZpbGU6VmVsa28gUE9TXzAuMS42X3g2NF9lbi1VUy5tc2kKQ09ORXR1UTdXYlRLZEtDZCt5OXdBZ01yVTBBL2FIVWdyWHMzSlVrc1AzZUZiSnlIVG8vc1ZBMDgxcCs3Mkp0M1k4aXRUUEMvcUVLMXM1eDZrMjRHQ2c9PQo=",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_0.1.6_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREJDNDRUblVLYmhjQU0vd3U0YkNBZ3NMbTd3N2JwTjBwdzZtUTdVSlVoTkZFalZseFlHcTB2SFlyYmFldHhMajUyMkpuY0g5S3loamc4emwrK2IyWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDY1NzQwCWZpbGU6VmVsa28gUE9TXzAuMS41X3g2NC1zZXR1cC5leGUKWGM3eXF0STk2cG1MQjEwQnZUN3phSEY2ME9aaitoeGlwRFNJWUN3M2U4RHRaQndlREZyWm9uSG9zV0RoM2RGWEpsVFIrZ0tlMElQbXEwcnFPLytEQUE9PQo=",
-      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.5/Velko.POS_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXovZndzamRmREg4M040RVhJYkYwbUxGTU9veTAzU2ZZSU5RL3hiTzNRVEpycHY3OXFob21rcG56emZjenpaclEzWmZROXQ2VnVWQzdmWmtwVklMUWdSK2Ftck51VkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk4MjQxCWZpbGU6VmVsa28gUE9TXzAuMS42X3g2NC1zZXR1cC5leGUKK1VzbWM2ZlViejB1ZWZmYzZ6anJuYUh3NWxuODhyT3FQVDlIM3RZZ0dSZjhsaGN6RWtuc1JNMkRhT1BXTE1tS05WZG8zN1pYTWhrUVlFZThrRGZlQmc9PQo=",
+      "url": "https://github.com/douglace/velko-pos-releases/releases/download/desktop-v0.1.6/Velko.POS_0.1.6_x64-setup.exe"
     }
   }
 }
